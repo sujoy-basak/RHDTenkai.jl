@@ -1,2 +1,2 @@
 # RHDTenkai.jl
-A numerical solver for relativistic hydrodynamics with general equations of state, implemented with a Lax-Wendroff flux reconstruction scheme for high-resolution shock capturing.
+The codes will be made publicly available after the corresponding work is published in a peer-reviewed journal.
